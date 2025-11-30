@@ -1,1 +1,14 @@
+main
+  - 
 
+tournaments
+  -
+
+partners 
+  -
+
+news 
+  -
+
+contact
+  -
