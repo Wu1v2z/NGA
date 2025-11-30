@@ -1,5 +1,7 @@
 main
-  - 
+  - general news
+  - sponsor carousel
+  - event stamp
 
 tournaments
   -
